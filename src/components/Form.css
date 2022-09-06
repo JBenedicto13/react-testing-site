@@ -1,0 +1,13 @@
+.formContainer {
+    margin-top: 50px;
+    justify-content: center;
+    display: flex;
+}
+
+.loginForm {
+    width: 450px;
+    border: 1px solid #000;
+    border-radius: 5px;
+    margin-top: inherit;
+    padding: 50px;
+}
